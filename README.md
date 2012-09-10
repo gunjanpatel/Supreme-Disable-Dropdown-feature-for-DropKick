@@ -1,6 +1,3 @@
-Supreme-Disable-Dropdown-feature-for-DropKick
-=============================================
-
 Supreme DropKick
 =
 Creating custom dropdowns is usually a tedious process that requires a ton of extra setup time. Oftentimes lacking conveniences that native dropdowns have such as keyboard navigation. DropKick removes the tedium and lets you focus on making s@#t look good.
